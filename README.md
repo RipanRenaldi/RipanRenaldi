@@ -1,16 +1,13 @@
-### Hi there 👋
+### Halo Semua! 👋
 
-<!--
-**RipanRenaldi/RipanRenaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Ripan Renaldi**.  
 
-Here are some ideas to get you started:
+Saya seorang **full-stack web developer**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya telah berhasil membuat beberapa project aplikasi pada saat penyusunan tugas besar mata kuliah di universitas.  
+Berikut project aplikasi yang telah saya buat :  
+* **[Sistem Manajemen Sekolahan(Khusus pembayaran spp dan gaji guru)](https://github.com/RipanRenaldi/app-sistem-manajemen-sekolahan)**  
+* **[Prediksi Kualitas Air Layak Minum atau Tidak](https://)  **
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ripan-renaldi-792442233/) ku yaa.\  
+
