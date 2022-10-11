@@ -4,11 +4,13 @@ Perkenalkan nama saya **Ripan Renaldi**.
 
 Saya seorang **full-stack web developer**.  
 
-Saya telah berhasil membuat beberapa project aplikasi pada saat penyusunan tugas besar mata kuliah di universitas.  
+Saya telah berhasil membuat beberapa project aplikasi, adapun project yang telah saya buat yaitu :   
 Berikut project aplikasi yang telah saya buat :  
 * **[Sistem Manajemen Sekolahan(Khusus pembayaran spp dan gaji guru)](https://github.com/RipanRenaldi/app-sistem-manajemen-sekolahan)**  
 *  **[Simple Landing Page untuk Company Profile](https://ripanrenaldi.github.io)**
-* **[Prediksi Kualitas Air Layak Minum atau Tidak](https://)  **
+* **[Prediksi Kualitas Air Layak Minum atau Tidak](https://)**
+* **[*Predictive Analytics Laptop Prices*](https://github.com/RipanRenaldi/project-01-predictiveanalytics)**
+* **[*Sistem Rekomendasi Buku dengan Pendekatan Collaborative Filtering*](https://github.com/RipanRenaldi/project-02-sistem-rekomendasi-buku)**
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ripan-renaldi-792442233/) ku yaa.\  
 
